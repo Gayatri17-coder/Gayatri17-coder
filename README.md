@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gayatri Utreja
+# 👋 Welcome to My GitHub
 
 ### Senior QA Automation Engineer | Playwright | TypeScript | Mobile Banking | CI/CD
 
@@ -56,14 +56,6 @@ Oracle SQL • MariaDB • DBeaver
 Jira • qTest • GitHub • GitLab • Bitbucket
 
 ---
-
-## 🏦 Banking Experience
-
-Currently working on automating digital banking journeys including:
-Currently working on end-to-end automation of digital banking journeys using **Playwright with TypeScript**. My work includes automating customer onboarding, account opening, card journey and validating all end system jounrey validation including corebanking across web and mobile platforms. I focus on building scalable automation frameworks, implementing regression suites, validating APIs, ensuring cross-browser compatibility, and integrating automated tests into CI/CD pipelines to deliver high-quality banking applications.
-
----
-
 
 
 ⭐ Passionate about building reliable, scalable, and maintainable automation frameworks that improve software quality and delivery speed.
