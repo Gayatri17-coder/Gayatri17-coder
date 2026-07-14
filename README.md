@@ -7,6 +7,9 @@ I'm a QA Automation Engineer with **11+ years of experience** in Manual and Auto
 Currently, I'm working on **Digital Acquisition Onboarding** in the UAE, automating end-to-end customer journeys using **Playwright with TypeScript** and building scalable automation frameworks.
 
 ---
+## 💼 Domain Experience
+
+I have over 13+ years of experience delivering quality assurance solutions across ** Digital Acquisition, Investment Banking, Cryptocurrency, Telecom, and Healthcare** domains. My expertise spans end-to-end functional, API, database, and automation testing, with a strong focus on building scalable automation frameworks and ensuring reliable, high-quality software delivery for enterprise applications.
 
 ## 👩‍💻 About Me
 
@@ -37,67 +40,31 @@ Currently, I'm working on **Digital Acquisition Onboarding** in the UAE, automat
 ### Automation
 `Playwright` • `Selenium` • `Cypress` • `Appium` • `TestNG` • `BDD`
 
-### Languages
-- TypeScript
-- Java
-- Python
+### 💻 Languages
+TypeScript • Java • Python
 
-### API Testing
-- REST Assured
-- Postman
+### 🔌 API Testing
+REST Assured • Postman
 
-### CI/CD
-- Jenkins
-- GitHub Actions
-- GitLab CI
+### 🚀 CI/CD
+Jenkins • GitHub Actions • GitLab CI
 
-### Databases
-- Oracle SQL
-- MariaDB
-- DBeaver
+### 🗄️ Databases
+Oracle SQL • MariaDB • DBeaver
 
-### Tools
-- Jira
-- qTest
-- GitHub
-- GitLab
-- Bitbucket
+### 🛠️ Tools
+Jira • qTest • GitHub • GitLab • Bitbucket
 
 ---
 
 ## 🏦 Banking Experience
 
 Currently working on automating digital banking journeys including:
-
-- Digital Customer Onboarding
-- Current ccount And Saving Account opening
-- Cards Journey
-- End-to-End Customer Journey Automation
-- Cross-browser Testing
-- API Validation
-- Regression Automation
-- CI/CD Integration
+Currently working on end-to-end automation of digital banking journeys using **Playwright with TypeScript**. My work includes automating customer onboarding, account opening, card journey and validating all end system jounrey validation including corebanking across web and mobile platforms. I focus on building scalable automation frameworks, implementing regression suites, validating APIs, ensuring cross-browser compatibility, and integrating automated tests into CI/CD pipelines to deliver high-quality banking applications.
 
 ---
 
-## 💼 Domain Experience
 
-- 🏦 Mobile Banking
-- 💰 Investment Banking
-- ₿ Cryptocurrency
-- 📡 Telecom
-- 🏥 Healthcare
-
----
-
-## 📚 Currently Learning
-
-- Playwright MCP
-- AI-assisted Test Automation
-- GitHub Actions
-- Advanced Playwright Framework Design
-
----
 
 ⭐ Passionate about building reliable, scalable, and maintainable automation frameworks that improve software quality and delivery speed.
 
