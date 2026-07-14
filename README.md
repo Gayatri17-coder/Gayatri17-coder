@@ -35,7 +35,7 @@ Currently, I'm working on **Digital Acquisition Onboarding** in the UAE, automat
 ## 🚀 Tech Stack
 
 ### Automation
-- Playwright - Selenium - Cypress - Appium - TestNG - BDD
+`Playwright` • `Selenium` • `Cypress` • `Appium` • `TestNG` • `BDD`
 
 ### Languages
 - TypeScript
